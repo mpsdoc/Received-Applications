@@ -2,7 +2,8 @@
 '=====================
 '
 'Script for Received Applications
-'>>>>>> SCRIPT BEGINS HERE AND BELOW
+'
+>>>>>> SCRIPT BEGINS HERE AND BELOW
 If ButtonPressed = 0 then StopScript
 
 'This loop segment requires worker select type of application, how received and from who
